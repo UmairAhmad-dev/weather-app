@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    font-style: bold;
+    text-align: center;
+    padding: 20px;
+
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: black; 
+}
+
+header h1{
+    color: #333;
+}
+header p{
+    color: #555;
+    margin: 20px 0;
+}
+input,button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+img {
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+button:hover{
+    background-color: #555;
+} 
