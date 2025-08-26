@@ -44,6 +44,8 @@ Replace it in app.js:
 
 let apiKey = "YOUR_API_KEY";
 
+🌐 Live Demo
 
+https://weather-app-beta-ivory-19.vercel.app
 
 
